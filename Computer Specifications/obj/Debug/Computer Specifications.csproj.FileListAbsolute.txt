@@ -1,0 +1,10 @@
+C:\Users\Dakzde\Desktop\Project\Computer Specifications\Computer Specifications\bin\Debug\Computer Specifications.exe.config
+C:\Users\Dakzde\Desktop\Project\Computer Specifications\Computer Specifications\bin\Debug\Computer Specifications.exe
+C:\Users\Dakzde\Desktop\Project\Computer Specifications\Computer Specifications\bin\Debug\Computer Specifications.pdb
+C:\Users\Dakzde\Desktop\Project\Computer Specifications\Computer Specifications\obj\Debug\Computer Specifications.csprojAssemblyReference.cache
+C:\Users\Dakzde\Desktop\Project\Computer Specifications\Computer Specifications\obj\Debug\Computer_Specifications.Form1.resources
+C:\Users\Dakzde\Desktop\Project\Computer Specifications\Computer Specifications\obj\Debug\Computer_Specifications.Properties.Resources.resources
+C:\Users\Dakzde\Desktop\Project\Computer Specifications\Computer Specifications\obj\Debug\Computer Specifications.csproj.GenerateResource.cache
+C:\Users\Dakzde\Desktop\Project\Computer Specifications\Computer Specifications\obj\Debug\Computer Specifications.csproj.CoreCompileInputs.cache
+C:\Users\Dakzde\Desktop\Project\Computer Specifications\Computer Specifications\obj\Debug\Computer Specifications.exe
+C:\Users\Dakzde\Desktop\Project\Computer Specifications\Computer Specifications\obj\Debug\Computer Specifications.pdb
